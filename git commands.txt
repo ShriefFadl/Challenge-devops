@@ -1,0 +1,17 @@
+$ git commit
+$ git brach develop
+$ git checkout develop
+$ git commit
+$ git commit
+$ git checkout main
+$ git commit
+$ git chechout develop
+$ git commit
+$ git commit
+$ git chechout main
+$ git commit
+$ git branch hotfix
+$ $ git chechout develop
+$ git branch feature1
+$ git commit
+$ git merge main
